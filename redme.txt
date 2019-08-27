@@ -5,12 +5,3 @@ cccc
 dddd
 
 
-cccc
-
-ggggg
-
-
-nnnnnn
-
-
-bbbbbbb
